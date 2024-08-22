@@ -7,3 +7,4 @@
 - git add . (adiciona todos os arquivos modificados no git)
 - git commit -m "Mensagem"
 - git push (manda o seu código para nuvem.)
+- git status => verifica o status do repositorio
